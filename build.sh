@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build --no-cache -t "zitseng/apachephp7" .
+docker build -t "zitseng/apachephp7" .
